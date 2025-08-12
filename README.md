@@ -1,7 +1,7 @@
-# CyberSecurity-Finish-Journey-Path
+# Cybersecurity Learning Roadmap
 A complete of offensive, defensife and blue team journey
 ---
-# Cybersecurity Learning Roadmap
+
 
 A comprehensive guide to mastering offensive, defensive, and blue team cybersecurity skills through a structured learning path.
 
