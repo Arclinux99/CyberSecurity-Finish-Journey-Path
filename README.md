@@ -1,10 +1,7 @@
 # Cybersecurity Learning Roadmap
-### A complete of offensive, defensife and blue team journey
+### A comprehensive guide to mastering offensive, defensive, and blue team cybersecurity skills through a structured learning path.
 
 ---
-
-
-A comprehensive guide to mastering offensive, defensive, and blue team cybersecurity skills through a structured learning path.
 
 ## Overview
 This roadmap outlines the journey to becoming proficient in cybersecurity, covering foundational knowledge, practical exploration, specialization, and system architecture security. It includes a practical implementation workflow and a recommended learning timeline for both Red Team (offensive) and Blue Team (defensive) paths, leading to Purple Team integration.
