@@ -121,3 +121,29 @@ nuclei -u http://target.com -t cves/
 Target: `http://oldwebsite.com`
 
 # Step 1:
+Practical Example:
+
+Target: http://oldwebsite.com
+
+```
+# Step 1: Cek teknologi
+whatweb http://oldwebsite.com
+
+# Step 2: Cari hidden directories  
+gobuster dir -u http://oldwebsite.com -w /usr/share/wordlists/dirb/common.txt
+
+# Step 3: Jika WordPress, scan lebih detail
+wpscan --url http://oldwebsite.com --enumerate vp
+
+# Step 4: Vulnerability check
+nuclei -u http://oldwebsite.com -t cves/ -t exposures/
+```
+
+
+Hasil akan kasih Anda:
+•  Teknologi apa yang dipakai
+•  File/folder tersembunyi
+•  Plugin/theme vulnerable
+•  CVE yang bisa dieksploit
+
+Sekarang Anda paham konsepnya? 
