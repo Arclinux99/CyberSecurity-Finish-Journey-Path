@@ -7,7 +7,7 @@
 - Mencari **entry point** (pintu masuk) ke sistem
 - Memahami **teknologi** yang digunakan target
 - Menemukan **hidden files/directories** 
-- Mencari **vulnerability** yang bisa dieksploit
+- Mencari **vulnerability / celah** yang bisa dieksploit 
 
 ## **1. Directory/File Enumeration Tools**
 
